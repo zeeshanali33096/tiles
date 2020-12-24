@@ -6,3 +6,8 @@
   height: 100%;
   /* padding: 1rem; */
 }
+
+
+.selected {
+    border: 2px solid blue;
+}
